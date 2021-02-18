@@ -10,5 +10,9 @@
     }
   },
   "cordova": {},
-  "linuxAndroidStudioPath": "/usr/local/bin/studio"
+  "linuxAndroidStudioPath": "/usr/local/bin/studio",
+  "server": {
+    "url": "http://192.168.15.7:8101",
+    "cleartext": true
+  }
 }
