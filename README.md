@@ -8,3 +8,4 @@
 
 - **Getting Started Angular**
 - **Tour of Heroes:** Tutorial app in Angular docs
+- **Photo Gallery:** Ionic first app
